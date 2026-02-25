@@ -1,0 +1,15 @@
+
+Gandhinagar Weather and AQI Analysis (Last 10 Days)
+--------------------------------------------------
+
+Temperature:
+Average = 33.4
+Median = 33.5
+
+Humidity:
+Average = 50.4
+Median = 50.5
+
+AQI:
+Average = 124.3
+Median = 123.5
